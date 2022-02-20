@@ -17,7 +17,7 @@ This is a module 3 challenge, focusing on VBA on stocks from 2017 to 2018.
 **3. Which county had the largest number of votes?**
   - Denver had the largest county turnout. 
 
-**4. Provide a breakdownof the number of votes and percentage of the total votes each candiate.**
+**4. Provide a breakdown of the number of votes and percentage of the total votes each candiate.**
   - Charlest Casper Stockham recieved 85,213 of the votes, about 23% of the total votes.
   - Diana DeGette recieved 272,892 of the votes, about 74% of the total votes.
   - Raymon Anthony Doane recieved 11,606 of the votes, about 3% of the total votes.
