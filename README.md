@@ -27,9 +27,9 @@ This is a module 3 challenge, focusing on VBA on stocks from 2017 to 2018.
 
 
 ## Election Aduit Summary:
-&nbsp;&nbsp;&nbsp;&nbsp; This was a fun task, definitly a lot to learn. You can use this tool for different business proposal to the election commission with some modifications. The examples below can better help describe it.  
+&nbsp;&nbsp;&nbsp;&nbsp; This was a fun task, a lot to learn and a lot to understand. You can use this tool for different business proposal to the election commission with some modifications. The examples below can better help describe it.  
    - You can take this template for next year, to focus on Denver as it had the highest number of votes. If you win Denver over, it can be a huge turnout for your results. 
-   - You can also breakdown to see which county prefers which candiate. You can deiniitly use this if specific items are being sold, or you want to focusthe people's chocices. 
+   - You can also breakdown to see which county prefers which candiate. You can use this if from a business point of view, or you want to focus the peoples chocices. 
       - The poeple in Jefferson prefers Charles Casper Stockham
       - The people in Denver prefers Diana DeGette.
       - The people in Arapahoe perfers Diana Degette.  
