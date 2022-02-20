@@ -14,7 +14,7 @@ This is a module 3 challenge, focusing on VBA on stocks from 2017 to 2018.
   - Denver had 306,055 of the votes, about 83% of the total votes.
   - Arapahoe had 24,801 of the votes, about 7% of the total votes.
 
-**3. Which county had the largest number of votes?  **
+**3. Which county had the largest number of votes?**
   - Denver had the largest county turnout. 
 
 **4. Provide a breakdownof the number of votes and percentage of the total votes each candiate.**
